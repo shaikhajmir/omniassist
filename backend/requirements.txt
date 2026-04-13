@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pymongo
+motor
+ultralytics
+torch
+transformers
+librosa
+soundfile
+networkx
+numpy
+scipy
+websockets
+python-multipart
+pydantic
+pydantic-settings
